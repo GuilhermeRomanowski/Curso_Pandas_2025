@@ -25,4 +25,5 @@ series_idades
 media = series_idades.mean()
 var_idades = series_idades.var()
 summary_idades = series_idades.describe()
+summary_idades
 # %%
